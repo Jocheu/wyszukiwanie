@@ -86,7 +86,7 @@ namespace wyszukiwanie
                         return;
                     }
                 case 5:
-                    if (captchatxt.Text == "mxyw")
+                    if (captchatxt.Text == "mxyxw")
                     {
                         break;
                     }
